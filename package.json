@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Test repository",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraze/myapp.git"
+  },
+  "keywords": [],
+  "author": "Devin Fraze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraze/myapp/issues"
+  },
+  "homepage": "https://github.com/Fraze/myapp#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
